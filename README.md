@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Şevval Bayramlı<br>I'm computer engineer in Turkey. I'm a Java and Python developer in Turkey.
+#Hi 👋, I'm Şevval Bayramlı<br>I'm computer engineer in Turkey. I'm a Java and Python developer in Turkey.
 
 
 ## 🌐 Socials:
